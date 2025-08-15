@@ -1,4 +1,3 @@
-Here’s your insights rewritten into a **polished, portfolio-ready README.md**:
 
 ---
 
