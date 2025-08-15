@@ -2,7 +2,7 @@ Here’s your insights rewritten into a **polished, portfolio-ready README.md**:
 
 ---
 
-# 📊 Revenue Analysis Report (Jan 2015 – Jun 2017)
+# 📊 Revenue Analysis 
 
 ## **Overview**
 
