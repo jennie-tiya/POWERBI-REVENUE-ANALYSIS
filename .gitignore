@@ -1,0 +1,8 @@
+# Ignore Excel temporary and backup files
+~$*.xlsx
+~$*.xls
+*.tmp
+*.bak
+
+# Ignore Power BI cache (if you ever add PBIX files)
+*.pbix.cache
