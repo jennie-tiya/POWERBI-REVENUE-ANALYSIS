@@ -59,6 +59,3 @@ This analysis explores revenue trends over a 2.5-year period, segmented by gende
 * **DAX Calculations** – Advanced metrics and percentage growth analysis.
 
 ---
-
-
-If you want, I can now **add a professional “Project Structure” section with folder/file explanations** so your GitHub looks even more polished. That way recruiters see your README as a complete case study, not just a write-up.
